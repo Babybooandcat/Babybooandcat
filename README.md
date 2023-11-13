@@ -5,9 +5,7 @@
 - 🤔 I’m looking for new challenges.
 - 📫 How to reach me: tailalinsvieira@gmail.com
 
-<div align="center">
-  <a href="https://github.com/Babybooandcat">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Babybooandcat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Babybooandcat=anuraghazra&show_icons=true&theme=transparent) <br>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="taila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
