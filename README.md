@@ -1,7 +1,7 @@
 ### Hello I´m Taila Vieira👋
 
 - 🔭 I’m currently working on front-end.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m looking to learn new things.
 - 🤔 I’m looking for new challenges.
 - 📫 How to reach me: tailalinsvieira@gmail.com
 
