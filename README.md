@@ -11,7 +11,7 @@
 
     | My bests languages |
 |---------------------|---------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=react&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&layout=compact&langs_count=7&theme=react)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&layout=compact&langs_count=7&theme=react)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="taila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
