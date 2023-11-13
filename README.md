@@ -6,7 +6,6 @@
 - 📫 How to reach me: tailalinsvieira@gmail.com
 
 ![Taila Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babybooandcat&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babybooandcat&theme=github_dark&show_hide_progress=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babybooandcat&layout=compact&langs_count=7&theme=github_dark)
     
 <div style="display: inline_block"><br>
