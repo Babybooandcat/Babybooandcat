@@ -19,7 +19,8 @@
 <img align="center" alt="taila-Bootstrap" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
-  ##
+ 
+ ##
 
 <div> 
      🌐 Socials: <br>
