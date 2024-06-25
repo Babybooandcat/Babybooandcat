@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on front-end.
 - 🌱 I’m looking to learn new things.
 - 🤔 I’m looking for new challenges.
-- 📫 How to reach me: tailalinsvieira@gmail.com
 
 ![Taila Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babybooandcat&theme=github_dark&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babybooandcat&layout=compact&langs_count=7&theme=github_dark)
